@@ -1,6 +1,6 @@
 # QuickClock
 
-A Quick Clock made so that you can see the time as quickly as possible.
+Quick Clock helps you see the time as quickly as possible.
 
 It's made so that you choose a shortcut for it and right when you click that shortcut the time and date appear like this:
 ![image](https://user-images.githubusercontent.com/82272898/207670892-ad697137-4030-45cf-bf9d-49ee8f56f07d.png)
