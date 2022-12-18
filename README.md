@@ -12,4 +12,6 @@ Right click on the shortcut called "QuickClock" in the extracted folder and clic
 
 In my case I made it because my screen is broken from the bottom corner, so I can't see the time or date and had to make this
 
+Note, if the shortcut takes like 5-10 seconds to open then [this](https://superuser.com/questions/426947/slow-windows-desktop-keyboard-shortcuts) is probably the reason
+
 Thanks
